@@ -10,3 +10,6 @@ requiredLabels:
 
 blockingLabels:
 - blocked
+
+reportStatus: true
+updateBranch: true
