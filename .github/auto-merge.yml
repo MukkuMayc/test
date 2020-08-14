@@ -5,5 +5,8 @@ minApprovals:
 maxRequestedChanges:
   COLLABORATOR: 0
 
+requiredLabels:
+- merge
+
 blockingLabels:
 - blocked
