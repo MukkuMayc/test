@@ -1,6 +1,6 @@
 minApprovals:
-  OWNER: 0
-  # COLLABORATOR: 1
+  # OWNER: 0
+  COLLABORATOR: 1
 
 maxRequestedChanges:
   COLLABORATOR: 0
